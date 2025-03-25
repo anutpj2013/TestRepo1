@@ -1,2 +1,2 @@
-# TestRepo1
-Testing Repository
+#Python project for data science
+Python project
